@@ -1,0 +1,14 @@
+body {
+background-color: lightskyblue;
+text-align:center;
+
+
+}
+
+h1{
+font-size: 70px ;
+border: 4px solid blue;
+border-radius: 10px;
+background-color:rgb(243, 66, 249);
+box-shadow: 10px 10px 10px grey;
+}
